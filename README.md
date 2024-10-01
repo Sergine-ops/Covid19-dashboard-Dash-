@@ -1,0 +1,1 @@
+This project marks the beginning of my journey in mastering Bash scripting. It started as a simple exercise to understand the basics but quickly grew into something more meaningful. Through this project, I not only learned the core fundamentals of Bash, but I’m now working towards turning it into a more professional and powerful tool.
